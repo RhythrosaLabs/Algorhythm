@@ -1,4 +1,4 @@
-# Algorythm
+# Algorhythm
 
 ## Overview
 
