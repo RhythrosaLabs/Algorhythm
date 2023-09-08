@@ -1,8 +1,8 @@
-# Code Audio
+# Algorythm
 
 ## Overview
 
-The Random Sound Generator is a Python application that allows you to create various randomized sounds using waveform generators and effects. With the Random Sound Generator, you can create unique and experimental sound effects based on predefined algorithms combined with a degree of randomness.
+Algorythm is a Python application that allows you to create various randomized sounds using waveform generators and effects. With the Random Sound Generator, you can create unique and experimental sound effects based on predefined algorithms combined with a degree of randomness.
 
 ## Dependencies
 
