@@ -2,7 +2,7 @@
 
 ## Overview
 
-Algorythm is a Python application that allows you to create various randomized sounds using waveform generators and effects. With the Random Sound Generator, you can create unique and experimental sound effects based on predefined algorithms combined with a degree of randomness.
+Algorhythm is a Python application that allows you to create various randomized sounds using waveform generators and effects. With the Random Sound Generator, you can create unique and experimental sound effects based on predefined algorithms combined with a degree of randomness.
 
 ## Dependencies
 
