@@ -49,6 +49,8 @@ Algorhythm is a Python application that allows you to create various randomized 
 
 Feel free to fork this project, make changes, and open pull requests. Any contributions, whether it's new features or bug fixes, are highly appreciated.
 
+
+[![Support via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/noodlebake)
 ## License
 
 MIT License. See `LICENSE` for more details.
