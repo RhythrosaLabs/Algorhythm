@@ -51,6 +51,8 @@ Feel free to fork this project, make changes, and open pull requests. Any contri
 
 
 [![Support via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/noodlebake)
+
+🌐 [Portfolio: rhythrosalabs.github.io](https://rhythrosalabs.github.io) (more apps, music and sound design)
 ## License
 
 MIT License. See `LICENSE` for more details.
